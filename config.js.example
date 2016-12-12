@@ -1,0 +1,7 @@
+var account = 'account';
+var password = 'password';
+
+module.exports = {
+  account: account,
+  password: password
+}
