@@ -1,7 +1,13 @@
 var account = 'account';
 var password = 'password';
+var alipay_login = 'https://auth.alipay.com/login/index.htm'
+var alipay_home = 'https://uemprod.alipay.com/user/ihome.htm'
+var alipay_bill = 'https://mbillexprod.alipay.com/enterprise/accountDetail.htm'
 
 module.exports = {
   account: account,
-  password: password
+  password: password,
+  alipay_home: alipay_home,
+  alipay_bill: alipay_bill,
+  alipay_login: alipay_login
 }
